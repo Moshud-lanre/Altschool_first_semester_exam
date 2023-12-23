@@ -28,7 +28,7 @@ Execute the command below in the directory where the expense.py is located
 python expense.py
 ```
 
-## Project Owner Information
+## Project Owner Altschool Information
 Name: Olanrewaju Moshood
 
 Email: realabioye@gmail.com
