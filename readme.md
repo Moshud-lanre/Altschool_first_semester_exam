@@ -19,7 +19,7 @@ expense.py : Contains the Expense and ExpenseDatabase classes
 ## How to clone the project
 
 ```bash
-git clone https://github.com/moshud-lanre
+git clone https://github.com/Moshud-lanre/Altschool_first_semester_exam
 ```
 
 ## Running the code
